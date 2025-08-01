@@ -76,7 +76,7 @@ Always consult a licensed physician or healthcare provider. This tool is for **i
 
 ## 👥 Team
 
-- **You (Richa Rana & Diya Patel)** – Concept, design, coding  
+- **(Richa Rana & Diya Patel)** – Concept, design, coding  
 - Collaborators and mentors to be added
 
 ---
