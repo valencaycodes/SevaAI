@@ -2,7 +2,6 @@
 # 🤖 SevaAI – Your Empathetic Health Companion  
 *A Baymax-inspired AI assistant that listens, cares, and supports.*
 
-![SevaAI Banner](https://imgur.com/placeholder.png) <!-- Replace with an actual image if you have a logo/banner -->
 
 ---
 
@@ -43,18 +42,7 @@
 | Symptom Checker    | Rule-based logic (can be upgraded to NLP/ML) |
 | Language Support   | Multilingual (Hindi/English)     |
 
----
 
-## 🖥️ Installation
-
-```bash
-git clone https://github.com/yourusername/sevaai.git
-cd sevaai
-pip install -r requirements.txt
-python sevaai.py
-```
-
-> Note: Requires a microphone and speaker setup. Use headphones for better voice capture.
 
 ---
 
@@ -88,7 +76,7 @@ Always consult a licensed physician or healthcare provider. This tool is for **i
 
 ## 👥 Team
 
-- **You (Richa Rana)** – Concept, design, coding  
+- **You (Richa Rana & Diya Patel)** – Concept, design, coding  
 - Collaborators and mentors to be added
 
 ---
