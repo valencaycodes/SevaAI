@@ -77,13 +77,6 @@ Always consult a licensed physician or healthcare provider. This tool is for **i
 ## 👥 Team
 
 - **(Richa Rana & Diya Patel)** – Concept, design, coding  
-- Collaborators and mentors to be added
-
----
-
-## 🤝 Contributing
-
-Pull requests and feedback are welcome. If you'd like to contribute to SevaAI, feel free to fork the repository and propose new features!
 
 ---
 
