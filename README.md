@@ -89,4 +89,4 @@ This project is open-source under the [MIT License](LICENSE).
 ## 🏆 Submission
 
 This project is developed for the **Maverick Effect AI Challenge 2025**, under the theme:  
-**"Technology for Healthcare Access and Empathy."**
+**Inclusive Health Care**
